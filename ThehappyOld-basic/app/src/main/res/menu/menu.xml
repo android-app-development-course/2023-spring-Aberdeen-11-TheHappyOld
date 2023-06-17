@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@mipmap/zuji"
+        android:title="旅行" />
+
+    <item
+        android:id="@+id/course"
+        android:icon="@mipmap/book_u"
+        android:title="课程" />
+
+    <item
+        android:id="@+id/my"
+        android:icon="@drawable/ic_baseline_people_24"
+        android:title="我的" />
+</menu>
